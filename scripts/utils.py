@@ -4,8 +4,6 @@ import numpy as np
 import tensorflow as tf
 import subprocess as sp
 import os
-import settings
-
 
 """## Loading the Data
 Load images and labels.

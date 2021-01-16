@@ -68,3 +68,5 @@ def make_or_restore_model(name ='', restore_flag=True, INPUT_SHAPE=32):
   
   print("Creating a new model")
   return get_compiled_model(INPUT_SHAPE), False # False if created
+
+

@@ -1,5 +1,11 @@
+import tensorflow as tf
+config = tf.compat.v1.ConfigProto()
+config.gpu_options.allow_growth = True
+sess = tf.compat.v1.Session(config=config)
+
 from scripts import settings
 settings.seed_handler()
+settings.init()
 
 from scripts import utils
 from scripts import model as m
@@ -74,3 +80,4 @@ if __name__ == "__main__":
         callbacks=callback,
         verbose=1
         )
+
