@@ -66,3 +66,4 @@ def mask_unused_gpus(leave_unmasked=1):
     os.environ["CUDA_VISIBLE_DEVICES"] = ','.join(map(str, available_gpus[:leave_unmasked]))
   except Exception as e:
     print('"nvidia-smi" is probably not installed. GPUs are not masked', e)
+
