@@ -18,4 +18,6 @@ RUN pip install \
     matplotlib \
     pandas
 
-CMD jupyter-lab . --allow-root --ip 0.0.0.0 --port 8080
+RUN git clone https://github.com/mhd-medfa/NoisyStudent-Based-Object-Recognition.git
+
+CMD jupyter-lab NoisyStudent-Based-Object-Recognition/ --allow-root --ip 0.0.0.0 --port 8080
