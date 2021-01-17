@@ -29,8 +29,11 @@ To run this solution:
 ## References
 
 Noisy Student research paper: https://arxiv.org/abs/1911.04252
-Rand Augment: https://github.com/heartInsert/randau...
-Image classification via fine-tuning with EfficientNet: https://keras.io/examples/vision/imag...
-A good article (in Japanese) with implementation for the noisy student research paper using Resnet50: https://qiita.com/rabbitcaptain/items...
+
+Rand Augment: https://github.com/heartInsert/randaugment/blob/master/Rand_Augment.py
+
+Image classification via fine-tuning with EfficientNet: https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/
+
+A good article (in Japanese) with implementation for the noisy student research paper using Resnet50: https://qiita.com/rabbitcaptain/items/a15591ca49dc428223ca
 
 Licensed under [MIT License](LICENSE).
