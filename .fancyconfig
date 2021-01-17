@@ -1,7 +1,0 @@
-[emoji]
-	fix = 🐛       # bug fix
-	feat = ✨      # new feature
-	refactor = 💫  # refactoring
-	style = 💎     # coding style improvement
-	docs = 🖊      # documentation not embedded in source code
-	chore = 🧹     # change that does not merit any other emoji
