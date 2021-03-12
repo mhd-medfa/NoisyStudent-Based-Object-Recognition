@@ -1,6 +1,6 @@
 # NoisyStudent-Based-Object-Recognition
 
-This repository contains my solution of the [ML 2020 Competition](https://competitions.codalab.org/competitions/27549), which designed for both Robotics and Data Science Master program at [Innopolis University](https://innopolis.university/). This solution was ranked 3rd overall. My account's username is [diehard](https://competitions.codalab.org/competitions/27549#results).
+This repository contains my solution of the [ML 2020 Competition](https://competitions.codalab.org/competitions/27549), which designed for both Robotics and Data Science Master programs at [Innopolis University](https://innopolis.university/). This solution was ranked 3rd overall. My account's username is [diehard](https://competitions.codalab.org/competitions/27549#results).
 
 Details about the solution:
 [video link](https://www.youtube.com/watch?v=pYVceiqfntc)
